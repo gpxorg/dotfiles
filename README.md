@@ -1,2 +1,2 @@
-# dotfiles
-My personal rice for awesomewm
+# AwesomeWM Rice 
+TBA
